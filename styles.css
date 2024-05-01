@@ -1,0 +1,72 @@
+.square0 {
+    background-color: rgba(7, 23, 42, 0.6);
+    border: 2px solid rgb(45, 43, 43);
+    padding: 1px;
+}
+
+.square1 {
+    background: rgb(226, 2, 2);
+    background: radial-gradient(circle, rgba(226, 2, 2, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square2 {
+    background: rgb(107, 197, 151);
+    background: radial-gradient(circle, rgba(107, 197, 151, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square3 {
+    background: rgb(249, 249, 249);
+    background: radial-gradient(circle, rgba(249, 249, 249, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square4 {
+    background: rgb(241, 146, 3);
+    background: radial-gradient(circle, rgba(241, 146, 3, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square5 {
+    background: rgb(24, 156, 37);
+    background: radial-gradient(circle, rgba(24, 156, 37, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square6 {
+    background: rgb(201, 185, 3);
+    background: radial-gradient(circle, rgba(201, 185, 3, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square7 {
+    background: rgb(3, 97, 201);
+    background: radial-gradient(circle, rgba(3, 97, 201, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.square8 {
+    background: rgb(201, 3, 90);
+    background: radial-gradient(circle, rgba(201, 3, 90, 1) 36%, rgba(58, 58, 58, 1) 100%);
+    border: 2px solid rgb(45, 43, 43);
+}
+
+.squarei {
+    background: rgba(0, 0, 0, 0);
+}
+
+.squareab {
+    background: rgb(236, 231, 52);
+    background: radial-gradient(circle, rgba(236, 231, 52, 1) 36%, rgba(233, 28, 28, 1) 100%);
+}
+
+.squaretrack {
+    background: rgb(236, 52, 127);
+    background: radial-gradient(circle, rgba(236, 52, 127, 0.8464519596901261) 67%, rgba(38, 28, 233, 0) 100%);
+}
+
+.background {
+    background: rgb(124, 124, 124);
+    background: linear-gradient(153deg, rgba(124, 124, 124, 1) 0%, rgba(218, 218, 218, 1) 59%, rgba(178, 207, 212, 1) 100%);
+}
