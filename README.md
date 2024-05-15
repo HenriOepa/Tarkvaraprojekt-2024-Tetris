@@ -1,9 +1,9 @@
 ADDED 15/05/2024
 
 Required libraries:
-  GTK4 and its dependencies
-  SDL2
-  SQLite3
+  GTK4 (and its dependencies),
+  SDL2,
+  SQLite3,
   pthread (on Windows)
 
 For compilation, Git Bash was used. Open it in the folder where the files are located and use the following command:
