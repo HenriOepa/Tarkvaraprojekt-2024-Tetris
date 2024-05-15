@@ -1,7 +1,7 @@
 ADDED 15/05/2024
 
 Required libraries:
-  GTK4 (and its dependencies),
+  GTK4 (and its dependencies - if there's an issue with glib, libglib2.0-dev might need to be installed as well),
   SDL2,
   SQLite3,
   pthread (on Windows)
